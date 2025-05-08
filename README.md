@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+My name is Owen, and I am an aspiring software engineer intrested in web devlopment and Ai.  
 <!--
 **Oweshbin/Oweshbin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
